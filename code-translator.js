@@ -10,13 +10,13 @@ function inp(){
   commandsByLang['JavaScript'][1] = "var a = ''";
   commandsByLang['C#'] = {}; 
   commandsByLang['C#'][0] = "Console.Write('Hello, World');";
-  commandsByLang['C#'][1] = "string a = ''\nint a = ''"
+  commandsByLang['C#'][1] = "var a = ''"
   commandsByLang['PHP'] = {}; 
   commandsByLang['PHP'][0] = "echo('Hello, World!')";
   commandsByLang['PHP'][1] = "$ a = ''";
   commandsByLang['Ruby'] = {}; 
   commandsByLang['Ruby'][0] = "puts 'Hello, World!'";
-  commandsByLang['Ruby'][1] = "$ a = ''\n@ a = ''";
+  commandsByLang['Ruby'][1] = "@ a = ''";
   commandsByLang['Python'] = {}; 
   commandsByLang['Python'][0] = "print 'Hello, World!'";
   commandsByLang['Python'][1] = "a = ''";
